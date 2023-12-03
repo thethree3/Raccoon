@@ -1,5 +1,5 @@
 ## Raccoon
-![raccoon](https://github.com/thethree3/Raccoon/blob/main/giphy.gif)
+![raccoon](https://github.com/thethree3/Raccoon/blob/main/DCS_white-logo.png)
 <img src="https://github.com/thethree3/Raccoon/blob/main/giphy.gif" alt="Alt Text" width="300" height="200">
 
    Automate the process of reconnaissance or information gathering for a target.
