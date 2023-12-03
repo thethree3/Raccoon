@@ -1,3 +1,4 @@
+![giphy](https://github.com/thethree3/Raccoon/assets/152316930/0fb61d85-d28a-4c2a-8e93-bdbc01a43da7)
 ## Raccoon
 ![raccoon](https://github.com/thethree3/Raccoon/blob/main/DCS_white-logo.png)
 <img src="https://github.com/thethree3/Raccoon/blob/main/giphy.gif" alt="Alt Text" width="300" height="200">
