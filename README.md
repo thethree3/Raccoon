@@ -1,6 +1,7 @@
 ## Raccoon
    <div style="text-align:center">
    ![giphy](https://github.com/thethree3/Raccoon/assets/152316930/0fb61d85-d28a-4c2a-8e93-bdbc01a43da7)
+       <img src="https://github.com/thethree3/Raccoon/assets/152316930/0fb61d85-d28a-4c2a-8e93-bdbc01a43da7" alt="Image Description">
    </div>
    
    Automate the process of reconnaissance or information gathering for a target.
