@@ -1,8 +1,5 @@
-![giphy](https://github.com/thethree3/Raccoon/assets/152316930/0fb61d85-d28a-4c2a-8e93-bdbc01a43da7)
 ## Raccoon
-![giphy](https://github.com/thethree3/Raccoon/blob/main/DCS_white-logo.png)
-<img src="https://github.com/thethree3/Raccoon/blob/main/giphy.gif" alt="Alt Text" width="300" height="200">
-
+   ![giphy](https://github.com/thethree3/Raccoon/assets/152316930/0fb61d85-d28a-4c2a-8e93-bdbc01a43da7)
    Automate the process of reconnaissance or information gathering for a target.
    This reconnaissance tool is designed to assist security professionals, penetration testers, or individuals interested in security research by automating the information-gathering process during assessments. It is intended for responsible and ethical use within legal boundaries.
 
